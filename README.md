@@ -10,7 +10,7 @@ This is a simple weather search application built with React. It allows users to
 
 ## Demo
 
-You can check out the live demo of the app [here](https://legendary-pika-12dd71.netlify.app/).
+You can check out the live demo of the app [here](https://weatherapp-byaryantaneja.netlify.app/).
 
 ## Screenshots
 
